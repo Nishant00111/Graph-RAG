@@ -32,19 +32,6 @@ Welcome to **Graph RAG**, a powerful and modular project that blends **Graph-bas
 
 ---
 
-## 📂 Project Structure
-
-graph-rag/
-│
-├── pdf_graph_rag/        # Handles PDF uploads + Graph generation using Neo4j
-├── sql_graph_rag/        # Handles SQL DB graph generation + query mapping
-├── utils/                # Shared functions and helpers
-├── app.py                # Main Streamlit app
-├── requirements.txt
-└── README.md
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
